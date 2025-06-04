@@ -1,10 +1,3 @@
-
-# AI Services unlock for Russia
-# Unlocking AI tools
-#
-#
-# Last modified: 10 March 2025
-#
 157.240.245.174 instagram.com
 157.240.245.174 www.instagram.com
 157.240.245.174 b.i.instagram.com
@@ -12,6 +5,8 @@
 3.66.189.153 protonmail.com
 3.66.189.153 mail.proton.me
 64.233.164.198 yt3.ggpht.com
+
+# ChatGPT, OpenAI:
 204.12.192.222 chatgpt.com
 204.12.192.222 ab.chatgpt.com
 204.12.192.222 auth.openai.com
@@ -26,6 +21,8 @@
 204.12.192.222 api.openai.com
 204.12.192.221 operator.chatgpt.com
 204.12.192.222 sora.com
+
+# Сервисы Google:
 204.12.192.222 gemini.google.com
 204.12.192.222 aistudio.google.com
 204.12.192.222 generativelanguage.googleapis.com
@@ -39,11 +36,18 @@
 204.12.192.222 labs.google
 204.12.192.222 notebooklm.google
 204.12.192.222 notebooklm.google.com
+204.12.192.222 jules.google.com
+
+# Microsoft Copilot, Microsoft Rewards, Xbox, Xbox Cloud Gaming:
 204.12.192.222 copilot.microsoft.com
 204.12.192.222 sydney.bing.com
 204.12.192.222 edgeservices.bing.com
 204.12.192.221 rewards.bing.com
-50.7.85.221 xsts.auth.xboxlive.com
+78.40.217.193 xsts.auth.xboxlive.com
+50.7.87.86 xgpuwebf2p.gssv-play-prod.xboxlive.com
+50.7.87.86 xgpuweb.gssv-play-prod.xboxlive.com
+
+# Spotify:
 204.12.192.222 api.spotify.com
 204.12.192.222 xpui.app.spotify.com
 204.12.192.222 appresolve.spotify.com
@@ -58,22 +62,38 @@
 204.12.192.222 www.spotify.com
 204.12.192.222 accounts.spotify.com
 204.12.192.222 open.spotify.com
+
+# Codeium:
 50.7.87.85 codeium.com
 50.7.85.219 inference.codeium.com
+
+# GitHub Copilot:
 50.7.87.84 api.github.com
-50.7.85.221 api.individual.githubcopilot.com
-50.7.87.83 proxy.individual.githubcopilot.com
+204.12.192.222 api.individual.githubcopilot.com
+204.12.192.222 proxy.individual.githubcopilot.com
+
+# JetBrains:
 50.7.85.221 datalore.jetbrains.com
 107.150.34.100 plugins.jetbrains.com
 204.12.192.222 download.jetbrains.com
+
+# ElevenLabs:
 204.12.192.222 elevenlabs.io
 204.12.192.222 api.us.elevenlabs.io
 204.12.192.222 elevenreader.io
+204.12.192.222 api.elevenlabs.io
+204.12.192.222 help.elevenlabs.io
+
+# Truth Social
 204.12.192.221 truthsocial.com
 204.12.192.221 static-assets-1.truthsocial.com
-185.250.151.49 grok.com
-185.250.151.49 accounts.x.ai
-185.250.151.49 assets.grok.com
+
+# Grok
+204.12.192.222 grok.com
+204.12.192.222 accounts.x.ai
+204.12.192.222 assets.grok.com
+
+# Tidal
 204.12.192.222 api.tidal.com
 204.12.192.222 listen.tidal.com
 204.12.192.222 login.tidal.com
@@ -86,6 +106,20 @@
 204.12.192.222 geolocation.onetrust.com
 204.12.192.222 api.squareup.com
 204.12.192.222 api-global.squareup.com
+
+# Clash Royale, Clash of Clans, Brawl Stars
+3.160.212.81 cdn.id.supercell.com
+18.172.112.81 security.id.supercell.com
+3.165.113.14 accounts.supercell.com
+18.66.195.96 game-assets.clashroyaleapp.com
+51.158.190.98 game.clashroyaleapp.com
+3.162.38.39 game-assets.clashofclans.com
+70.34.251.56 gamea.clashofclans.com
+108.157.194.81 clashofclans.inbox.supercell.com
+179.43.168.109 game.brawlstarsgame.com
+18.239.69.129 game-assets.brawlstarsgame.com
+
+# Другое:
 204.12.192.222 claude.ai
 204.12.192.222 www.notion.so
 50.7.85.222 www.canva.com
@@ -95,9 +129,14 @@
 142.54.189.106 web.archive.org # Блокирует от российских IP некоторые сайты
 204.12.192.220 developer.nvidia.com
 107.150.34.99 builds.parsec.app
+
+# Блокировка реально плохих сайтов
+# Скримеры:
 0.0.0.0 only-fans.uk
 0.0.0.0 only-fans.me
 0.0.0.0 onlyfans.wtf
+
+# IP Logger'ы:
 0.0.0.0 iplogger.org
 0.0.0.0 wl.gl
 0.0.0.0 ed.tc
@@ -108,39 +147,4 @@
 0.0.0.0 iplis.ru
 0.0.0.0 ezstat.ru
 0.0.0.0 iplog.co
-176.99.11.77 assistantfrontend-pa.googleapis.com
-176.99.11.77 firebaseinstallations.googleapis.com
-176.99.11.77 geller-pa.googleapis.com
-176.99.11.77 lamssettings-pa.googleapis.com
-176.99.11.77 notifications-pa.googleapis.com
-176.99.11.77 searchnotifications-pa.googleapis.com
-176.99.11.77 speechs3proto2-pa.googleapis.com
-176.99.11.77 bing.com
-176.99.11.77 bing.net
-176.99.11.77 bingapis.com
-176.99.11.77 bingclientmsa.sapphire.microsoftapp.net
-176.99.11.77 edge.microsoft.com
-176.99.11.77 gateway.bingviz.microsoftapp.net
-176.99.11.77 img-s-msn-com.akamaized.net
-176.99.11.77 in.appcenter.ms
-176.99.11.77 login.microsoftonline.com
-176.99.11.77 mobile.events.data.microsoft.com
-176.99.11.77 prod.rewardsplatform.microsoft.com
-176.99.11.77 prod-switzerlandnorth.access-point.cloudmessaging.edge.microsoft.com
-176.99.11.77 sapphire.api.microsoftapp.net
-176.99.11.77 self.events.data.microsoft.com
-176.99.11.77 ssl.bing.com
-176.99.11.77 superapp.msn.com
-176.99.11.77 th.bing.com
-176.99.11.77 www.bing.com
-176.99.11.77 www.bingapis.com
-176.99.11.77 www.msn.com
-176.99.11.77 api.msn.com
-176.99.11.77 assets.msn.com
-176.99.11.77 c.msn.com
-176.99.11.77 prod-streaming-video-msn-com.akamaized.net
-176.99.11.77 location.microsoft.com
-176.99.11.77 prod-japaneast.access-point.cloudmessaging.edge.microsoft.com
-176.99.11.77 swiftkey.com
-176.99.11.77 data.swiftkey.com
-176.99.11.77 ai-chat.bsg.brave.com
+0.0.0.0 grabify.org
